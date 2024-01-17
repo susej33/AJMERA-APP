@@ -3,15 +3,23 @@ Clone the repo AJMERA-APP using command "git clone https://github.com/susej33/AJ
 # AJMERA-NODE-APP
 
 Open it in visual studio code editor & in the terminal type
-Step 1: cd ajmera-node-app
-Step 2: npm install
-Step 3: node server.js
+
+# Step 1: cd ajmera-node-app
+
+# Step 2: npm install
+
+# Step 3: node server.js
+
+Ajmera-Node-App runs on https://localhost:5000/
 
 # AJMERA-REACT-APP
 
 Open it in visual studio code editor & in the terminal type
-Step 1: cd ajmera-react-app
-Step 2: npm install
-Step 3: npm start
 
+# Step 1: cd ajmera-react-app
 
+# Step 2: npm install
+
+# Step 3: npm start
+
+Ajmera-React-App runs on https://localhost:3000/
