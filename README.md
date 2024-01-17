@@ -10,7 +10,7 @@ Open it in visual studio code editor & in the terminal type
 
 # Step 3: node server.js
 
-Ajmera-Node-App runs on https://localhost:5000/
+Ajmera-Node-App runs on http://localhost:5000/
 
 # AJMERA-REACT-APP
 
@@ -22,4 +22,4 @@ Open it in visual studio code editor & in the terminal type
 
 # Step 3: npm start
 
-Ajmera-React-App runs on https://localhost:3000/
+Ajmera-React-App runs on http://localhost:3000/
